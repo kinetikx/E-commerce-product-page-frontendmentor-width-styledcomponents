@@ -1,8 +1,8 @@
 import React from 'react'
-
+import { Productdetail } from './Productdetailsstyle'
 const Productdetails = () => {
   return (
-    <div>Productdetails</div>
+    <Productdetail>Productdetails</Productdetail>
   )
 }
 
